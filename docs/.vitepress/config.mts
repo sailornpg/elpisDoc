@@ -16,9 +16,9 @@ export default defineConfig({
       {
         text: 'Examples',
         items: [
-          { text: 'Markdown 示例', link: '/markdown-examples' },
-          { text: 'Runtime API 示例', link: '/api-examples' },
-          { text: '里程碑1', link: '/milestone1' },
+          // { text: 'Markdown 示例', link: '/markdown-examples' },
+          // { text: 'Runtime API 示例', link: '/api-examples' },
+          { text: '里程碑1 elpis-core核心实现', link: '/milestone1' },
           { text: '里程碑2', link: '/milestone2' },
           { text: '里程碑3', link: '/milestone3' },
           { text: '里程碑4', link: '/milestone4' },
