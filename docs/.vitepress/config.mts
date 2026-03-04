@@ -21,7 +21,7 @@ export default defineConfig({
           { text: '里程碑1 elpis-core核心实现', link: '/milestone1' },
           { text: '里程碑2 基于webpack5完成工程化建设', link: '/milestone2' },
           { text: '里程碑2.1 基于vite完成工程化建设', link: '/milestone2.1' },
-          { text: '里程碑3', link: '/milestone3' },
+          { text: '里程碑3 基于dsl领域模型架构', link: '/milestone3' },
           { text: '里程碑4', link: '/milestone4' },
         ]
       }
