@@ -18,6 +18,7 @@ export default defineConfig({
         items: [
           // { text: 'Markdown 示例', link: '/markdown-examples' },
           // { text: 'Runtime API 示例', link: '/api-examples' },
+          { text: '项目介绍', link: '/abstract' },
           { text: '里程碑1 elpis-core核心实现', link: '/milestone1' },
           { text: '里程碑2 基于webpack5完成工程化建设', link: '/milestone2' },
           { text: '里程碑2.1 基于vite完成工程化建设', link: '/milestone2.1' },
